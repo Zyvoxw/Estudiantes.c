@@ -1,6 +1,6 @@
-/*Integrantes: Iveth Castro,  Zaskia Sunta
+/*Integrantes: Remmy y Oscar
 Fecha: 12/10/2025
-Descripción: Programa de calificaciones con nombres de estudiantes y asignaturas*/
+*/
 #include <stdio.h>
 
 int main()
